@@ -1,4 +1,4 @@
-# FatLossCalculator
+# Leanify
 Useful if you want to figure out how less you should eat to get lean for summer.
 
 ## Notes
