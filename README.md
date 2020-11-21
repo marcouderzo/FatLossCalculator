@@ -1,5 +1,3 @@
-# Leanify
-Useful if you want to figure out how less you should eat to get lean for summer.
-
-## Notes
-Does not give you how many calories you should eat, just the calorie deficit you should have. If you want to know that, use MyFitnessPal!
+# Leanipy
+A very simple but convenient Python script to calculate your calorie deficit to lose weight for summer. Well, you could calculate it yourself, but why should you?
+Note that Leanipy does not tell you how many calories you should eat. To get that information, your Total Daily Energy Expenditure (TDEE) is required. That is your Basal Metabolic Rate (BMR) + Calories Burned through exercise and non-exercise daily activities. TDEE - Calorie Deficit will be your daily calorie intake.
